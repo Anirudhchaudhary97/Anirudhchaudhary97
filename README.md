@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhchaudhary97&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhchaudhary97" /> </p>
 
-- 🌱 I’m currently exploring MongoDB, Express.js, React, and Node.js.
+- 🎓 Trained in MongoDB, Express.js, React, and Node.js.
 - 🚀 Always learning and exploring new technologies.
-- 💬 Ask me about **frontend | react**
 - 📫 How to reach me **anurudhchaudhary97@gmail.com**
 - ⚡ Fun fact **funny**
 
