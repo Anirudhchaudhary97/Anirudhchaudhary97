@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anirudh Chaudhary</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate software developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhchaudhary97&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhchaudhary97" /> </p>
 
-- 🌱 I’m currently learning **react js | node js**
-
+- 🌱 I’m currently exploring MongoDB, Express.js, React, and Node.js.
+- 🚀 Always learning and exploring new technologies.
 - 💬 Ask me about **frontend | react**
-
 - 📫 How to reach me **anurudhchaudhary97@gmail.com**
-
 - ⚡ Fun fact **funny**
 
 <h3 align="left">Connect with me:</h3>
